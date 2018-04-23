@@ -14,7 +14,7 @@ import rosegraphics as rg
 def main():
     """ Calls the various   TEST   functions in this module. """
     #run_test_make_simple_list()
-    #run_test_make_simple_string()
+    run_test_make_simple_string()
     #run_test_make_less_simple_string()
 
     # ------------------------------------------------------------------
@@ -23,7 +23,7 @@ def main():
     #   until you get to TO DO 9 and 10.
     # ------------------------------------------------------------------
     #run_test_draw_shapes()
-    run_test_rectangles_from_circles()
+    #run_test_rectangles_from_circles()
 
 
 def run_test_make_simple_list():
